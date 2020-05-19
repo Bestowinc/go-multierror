@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-multierror
+module github.com/Bestowinc/go-multierror
 
 go 1.14
 
